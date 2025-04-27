@@ -1,3 +1,23 @@
+# Refabry E-commerce Platform
+
+## Overview
+
+Refabry is a modern e-commerce platform built with React, providing a seamless shopping experience with an intuitive user interface. This single-page application leverages React's component-based architecture to create a fast, responsive shopping experience.
+
+
+## Technology Stack
+
+- **Core Framework**: React.js, JavaScript
+- **Routing**: React Router
+- **State Management**: Redux / Redux Toolkit
+- **HTTP Client**: Axios
+- **UI Components**: React Icons
+- **Styling**: Tailwind CSS
+
+## Live Link: https://refabry-ecommerce.vercel.app/
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
